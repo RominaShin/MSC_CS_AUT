@@ -1,0 +1,273 @@
+DESIGN 
+IN THE 
+WORLD OF 
+BUSINESS
+The realities of the world impose severe constraints 
+upon the design of products. Up to now I have described the ideal case, assuming that human-centered 
+design principles could be followed in a vacuum; that 
+is, without attention to the real world of competition, costs, and 
+schedules. Conflicting requirements will come from different 
+sources, all of which are legitimate, all of which need to be resolved. 
+Compromises must be made by all involved.
+Now it is time to examine the concerns outside of humancentered design that affect the development of products. I start 
+with the impact of competitive forces that drive the introduction 
+of extra features, often to excess: the cause of the disease dubbed 
+“featuritis,” whose major symptom is “creeping featurism.” From 
+there, I examine the drivers of change, starting with technological 
+drivers. When new technologies emerge, there is a temptation to 
+develop new products immediately. But the time for radically new 
+products to become successful is measured in years, decades, or 
+in some instances centuries. This causes me to examine the two 
+forms of product innovation relevant to design: incremental (less 
+glamorous, but most common) and radical (most glamorous, but 
+rarely successful). 
+I conclude with reflections about the history and future prospects 
+of this book. The first edition of this book has had a long and fruitful life. Twenty-five years is an amazingly long time for a book centered around technology to have remained relevant. If this revised 
+and expanded edition lasts an equally long time, that means fifty 
+years of The Design of Everyday Things. In these next twenty-five 
+years, what new developments will take place? What will be the 
+role of technology in our lives, for the future of books, and what 
+are the moral obligations of the design profession? And finally, for 
+how long will the principles in this book remain relevant? It should 
+be no surprise that I believe they will always be just as relevant as 
+they were twenty-five years ago, just as relevant as they are today. 
+Why? The reason is simple. The design of technology to fit human 
+needs and capabilities is determined by the psychology of people. 
+Yes, technologies may change, but people stay the same.
+Competitive Forces
+Today, manufacturers around the world compete with one another. 
+The competitive pressures are severe. After all, there are only a 
+few basic ways by which a manufacturer can compete: three of the 
+most important being price, features, and quality—unfortunately 
+often in that order of importance. Speed is important, lest some 
+other company get ahead in the rush for market presence. These 
+pressures make it difficult to follow the full, iterative process of 
+continual product improvement. Even relatively stable home products, such as automobiles, kitchen appliances, television sets, and 
+computers, face the multiple forces of a competitive market that 
+encourage the introduction of changes without sufficient testing 
+and refinement.
+Here is a simple, real example. I am working with a new startup 
+company, developing an innovative line of cooking equipment. 
+The founders had some unique ideas, pushing the technology of 
+cooking far ahead of anything available for homes. We did numerous field tests, built numerous prototypes, and engaged a worldclass industrial designer. We modified the original product concept 
+several times, based on early feedback from potential users and
+advice from industry experts. But just as we were about to commission the first production of a few hand-tooled working prototypes that could be shown to potential investors and customers (an 
+expensive proposition for the small self-funded company), other 
+companies started displaying similar concepts in the trade shows. 
+What? Did they steal the ideas? No, it’s what is called the Zeitgeist, a German word meaning “spirit of the time.” In other words, 
+the time was ripe, the ideas were “in the air.” The competition 
+emerged even before we had delivered our first product. What is 
+a small, startup company to do? It doesn’t have money to compete 
+with the large companies. It has to modify its ideas to keep ahead 
+of the competition and come up with a demonstration that excites 
+potential customers and wows potential investors and, more importantly, potential distributors of the product. It is the distributors 
+who are the real customers, not the people who eventually buy the 
+product in stores and use it in their homes. The example illustrates 
+the real business pressures on companies: the need for speed, the 
+concern about costs, the competition that may force the company 
+to change its offerings, and the need to satisfy several classes of 
+customers—investors, distributors, and, of course, the people who 
+will actually use the product. Where should the company focus its 
+limited resources? More user studies? Faster development? New, 
+unique features?
+The same pressures that the startup faced also impact established 
+companies. But they have other pressures as well. Most products 
+have a development cycle of one to two years. In order to bring out 
+a new model every year, the design process for the new model has 
+to have started even before the previous model has been released 
+to customers. Moreover, mechanisms for collecting and feeding 
+back the experiences of customers seldom exist. In an earlier era, 
+there was close coupling between designers and users. Today, they 
+are separated by barriers. Some companies prohibit designers from 
+working with customers, a bizarre and senseless restriction. Why 
+would they do this? In part to prevent leaks of the new developments to the competition, but also in part because customers may
+stop purchasing the current offerings if they are led to believe that 
+a new, more advanced item is soon to come. But even where there 
+are no such restrictions, the complexity of large organizations coupled with the relentless pressure to finish the product makes this 
+interaction difficult. Remember Norman’s Law of Chapter 6: The 
+day a product development process starts, it is behind schedule 
+and above budget.
+FEATURITIS: A DEADLY TEMPTATION
+In every successful product there lurks the carrier of an insidious 
+disease called “featuritis,” with its main symptom being “creeping featurism.” The disease seems to have been first identified and 
+named in 1976, but its origins probably go back to the earliest technologies, buried far back in the eons prior to the dawn of history. 
+It seems unavoidable, with no known prevention. Let me explain.
+Suppose we follow all the principles in this book for a wonderful, human-centered product. It obeys all design principles. It overcomes people’s problems and fulfills some important needs. It is 
+attractive and easy to use and understand. As a result, suppose the 
+product is successful: many people buy it and tell their friends to 
+buy it. What could be wrong with this?
+The problem is that after the product has been available for a 
+while, a number of factors inevitably appear, pushing the company 
+toward the addition of new features—toward creeping featurism. 
+These factors include:
+• Existing customers like the product, but express a wish for more features, more functions, more capability.
+• A competing company adds new features to its products, producing 
+competitive pressures to match that offering, but to do even more in 
+order to get ahead of the competition.
+• Customers are satisfied, but sales are declining because the market 
+is saturated: everyone who wants the product already has it. Time to 
+add wonderful enhancements that will cause people to want the new 
+model, to upgrade.
+Featuritis is highly infectious. New products are invariably more 
+complex, more powerful, and different in size than the first release 
+of a product. You can see that tension playing out in music players, 
+mobile phones, and computers, especially on smart phones, tablets, and pads. Portable devices get smaller and smaller with each 
+release, despite the addition of more and more features (making 
+them ever more difficult to operate). Some products, such as automobiles, home refrigerators, television sets, and kitchen stoves, 
+also increase in complexity with each release, getting larger and 
+more powerful.
+But whether the products get larger or smaller, each new edition 
+invariably has more features than the previous one. Featuritis is 
+an insidious disease, difficult to eradicate, impossible to vaccinate 
+against. It is easy for marketing pressures to insist upon the addition 
+of new features, but there is no call—or for that matter, budget—to 
+get rid of old, unneeded ones.
+How do you know when you have encountered featuritis? By 
+its major symptom: creeping featurism. Want an example? Look 
+at Figure 71, which illustrates the changes that have overcome the 
+simple Lego motorcycle since my first encounter with it for the first 
+edition of this book. The original motorcycle (Figure 41 and Figure 
+7.1A) had only fifteen components and could be put together without any instructions: it had sufficient constraints that every piece 
+had a unique location and orientation. But now, as Figure 71B 
+shows, the same motorcycle has become bloated, with twenty-nine 
+pieces. I needed instructions.
+Creeping featurism is the tendency to add to the number of features of a product, often extending the number beyond all reason. 
+There is no way that a product can remain usable and understandable by the time it has all of those special-purpose features that 
+have been added in over time.
+In her book Different, Harvard professor Youngme Moon argues that it is this attempt to match the competition that causes all 
+products to be the same. When companies try to increase sales by 
+matching every feature of their competitors, they end up hurting 
+themselves. After all, when products from two companies match 
+feature by feature, there is no longer any reason for a customer to 
+prefer one over another. This is competition-driven design. Unfortunately, the mind-set of matching the competitor’s list of features 
+pervades many organizations. Even if the first versions of a product are well done, human-centered, and focused upon real needs, 
+it is the rare organization that is content to let a good product stay 
+untouched.
+Most companies compare features with their competition to determine where they are weak, so they can strengthen those areas. 
+Wrong, argues Moon. A better strategy is to concentrate on areas 
+where they are stronger and to strengthen them even more. Then 
+focus all marketing and advertisements to point out the strong 
+points. This causes the product to stand out from the mindless 
+herd. As for the weaknesses, ignore the irrelevant ones, says Moon. 
+The lesson is simple: don’t follow blindly; focus on strengths, not 
+weaknesses. If the product has real strengths, it can afford to just 
+be “good enough” in the other areas.
+FIGURE 71 Featuritis Strikes Lego. Figure A shows the original Lego Motorcycle 
+available in 1988 when I used it in the first edition of this book (on the left), next to the 
+2013 version (on the right). The old version had only fifteen pieces. No manual was 
+needed to put it together. For the new version, the box proudly proclaims “29 pieces.” 
+I could put the original version together without instructions. Figure B shows how far 
+I got with the new version before I gave up and had to consult the instruction sheet. 
+Why did Lego believe it had to change the motorcycle? Perhaps because featuritis 
+struck real police motorcycles, causing them to increase in size and complexity and 
+Lego felt that its toy needed to match the world. (Photographs by the author.)
+Good design requires stepping back from competitive pressures 
+and ensuring that the entire product be consistent, coherent, and 
+understandable. This stance requires the leadership of the company to withstand the marketing forces that keep begging to add 
+this feature or that, each thought to be essential for some market 
+segment. The best products come from ignoring these competing 
+voices and instead focusing on the true needs of the people who 
+use the product.
+Jeff Bezos, the founder and CEO of Amazon.com, calls his approach “customer obsessed.” Everything is focused upon the requirements of Amazon’s customers. The competition is ignored, 
+the traditional marketing requirements are ignored. The focus is on 
+simple, customer-driven questions: what do the customers want; 
+how can their needs best be satisfied; what can be done better to 
+enhance customer service and customer value? Focus on the customer, Bezos argues, and the rest takes care of itself. Many companies claim to aspire to this philosophy, but few are able to follow 
+it. Usually it is only possible where the head of the company, the 
+CEO, is also the founder. Once the company passes control to others, especially those who follow the traditional MBA dictum of 
+putting profit above customer concerns, the story goes downhill. 
+Profits may indeed increase in the short term, but eventually the 
+product quality deteriorates to the point where customers desert. 
+Quality only comes about by continual focus on, and attention to, 
+the people who matter: customers.
+New Technologies Force Change 
+Today, we have new requirements. We now need to type on small, 
+portable devices that don’t have room for a full keyboard. Touchand gesture-sensitive screens allow a new form of typing. We can 
+bypass typing altogether through handwriting recognition and 
+speech understanding.
+Consider the four products shown in Figure 7.2. Their appearance and methods of operations changed radically in their century 
+of existence. Early telephones, such as the one in Figure 72A, did 
+not have keyboards: a human operator intervened to make the connections. Even when operators were first replaced by automatic 
+switching systems, the “keyboard” was a rotary dial with ten holes, 
+one for each digit. When the dial was replaced with pushbutton 
+keys, it suffered a slight case of featuritis: the ten positions of the 
+dial were replaced with twelve keys: the ten digits plus * and #.
+But much more interesting is the merger of devices. The human 
+computer gave rise to laptops, small portable computers. The telephone moved to small, portable cellular phones (called mobiles 
+in much of the world). Smart phones had large, touch-sensitive 
+screens, operated by gesture. Soon computers merged into tablets, as did cell phones. Cameras merged with cell phones. Today, 
+talking, video conferences, writing, photography (both still and 
+video), and collaborative interaction of all sorts are increasingly 
+being done by one single device, available with a large variety of 
+screen sizes, computational power, and portability. It doesn’t make 
+sense to call them computers, phones, or cameras: we need a new 
+name. Let’s call them “smart screens.” In the twenty-second century, will we still have phones? I predict that although we will still 
+talk with one another over a distance, we will not have any device 
+called a telephone.
+FIGURE 72 100 Years of Telephones and Keyboards. Figures A and B show the 
+change in the telephone from the Western Electric crank telephone of the 1910s, where 
+rotating the crank on the right generated a signal alerting the operator, to the phone of 
+the 2010s. They seem to have nothing in common. Figures C and D contrast a keyboard 
+of the 1910s with one from the 2010s. The keyboards are still laid out in the same way, 
+but the first requires physical depression of each key; the second, a quick tracing of a 
+finger over the relevant letters (the image shows the word many being entered). Credits: A, B, and C: photographs by the author; objects in A and C courtesy of the Museum 
+of American Heritage, Palo Alto, California. D shows the “Swype” keyboard from 
+Nuance. Image being used courtesy of Nuance Communications, Inc.
+As the pressures for larger screens forced the demise of physical keyboards (despite the attempt to make tiny keyboards, operated with single fingers or thumbs), the keyboards were displayed 
+on the screen whenever needed, each letter tapped one at a time. 
+This is slow, even when the system tries to predict the word being 
+typed so that keying can stop as soon as the correct word shows 
+up. Several systems were soon developed that allowed the finger or 
+stylus to trace a path among the letters of the word: word-gesture 
+systems. The gestures were sufficiently different from one another 
+that it wasn’t even necessary to touch all the letters—it only mattered that the pattern generated by the approximation to the correct path was close enough to the desired one. This turns out to be 
+a fast and easy way to type (Figure 72D).
+With gesture-based systems, a major rethinking is possible. Why 
+keep the letters in the same QWERTY arrangement? The pattern 
+generation would be even faster if letters were rearranged to maximize speed when using a single finger or stylus to trace out the 
+letters. Good idea, but when one of the pioneers in developing this 
+technique, Shumin Zhai, then at IBM, tried it, he ran into the legacy 
+problem. People knew QWERTY and balked at having to learn a 
+different organization. Today, the word-gesture method of typing 
+is widely used, but with QWERTY keyboards (as in Figure 7.2D).
+Technology changes the way we do things, but fundamental 
+needs remain unchanged. The need for getting thoughts written 
+down, for telling stories, doing critical reviews, or writing fiction 
+and nonfiction will remain. Some will be written using traditional 
+keyboards, even on new technological devices, because the keyboard still remains the fastest way to enter words into a system, 
+whether it be paper or electronic, physical or virtual. Some people 
+will prefer to speak their ideas, dictating them. But spoken words 
+are still likely to be turned into printed words (even if the print 
+is simply on a display device), because reading is far faster and 
+superior to listening. Reading can be done quickly: it is possible to 
+read around three hundred words per minute and to skim, jumping ahead and back, effectively acquiring information at rates in 
+the thousands of words per minute. Listening is slow and serial, 
+usually at around sixty words per minute, and although this rate 
+can be doubled or tripled with speech compression technologies 
+and training, it is still slower than reading and not easy to skim. 
+But the new media and new technologies will supplement the old, 
+so that writing will no longer dominate as much as it did in the 
+past, when it was the only medium widely available. Now that 
+anyone can type and dictate, take photographs and videos, draw 
+animated scenes, and creatively produce experiences that in the 
+twentieth century required huge amounts of technology and large 
+crews of specialized workers, the types of devices that allow us to 
+do these tasks and the ways they are controlled will proliferate.
+The role of writing in civilization has changed over its five thousand years of existence. Today, writing has become increasingly 
+common, although increasingly as short, informal messages. We 
+now communicate using a wide variety of media: voice, video, 
+handwriting, and typing, sometimes with all ten fingers, sometimes just with the thumbs, and sometimes by gestures. Over time, 
+the ways by which we interact and communicate change with technology. But because the fundamental psychology of human beings 
+will remain unchanged, the design rules in this book will still apply.
+Of course, it isn’t just communication and writing that has 
+changed. Technological change has impacted every sphere of our 
+lives, from the way education is conducted, to medicine, foods, 
+clothing, and transportation. We now can manufacture things at 
+home, using 3-D printers. We can play games with partners around 
+the world. Cars are capable of driving themselves, and their engines have changed from internal combustion to an assortment of 
+pure electric and hybrids. Name an industry or an activity and if 
+it hasn’t already been transformed by new technologies, it will be.
+Technology is a powerful driver for change. Sometimes for the 
+better, sometimes for the worse. Sometimes to fulfill important 
+needs, and sometimes simply because the technology makes the 
+change possible.
